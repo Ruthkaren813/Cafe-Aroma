@@ -8,8 +8,7 @@ nav {
 h1 {
     text-align: center;
 }
-<style.css>
-    
+
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         background-color: #fdfbf7;
@@ -25,7 +24,6 @@ h1 {
         padding-bottom: 5px;
     }
 
-    /* Estilo para las imágenes (para que no se desborden y se vean estéticas) */
     img {
         max-width: 100%;
         height: auto;
@@ -33,7 +31,6 @@ h1 {
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
 
-    /* Tarjetas de contenido (como los productos o promociones) */
     .tarjeta-promo, .producto {
         background-color: #ffffff;
         border-left: 5px solid #bc8f60;
@@ -43,8 +40,7 @@ h1 {
         box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     }
 
-    /* Botón"Pedir ahora" */
-    .btn-pedir {
+     btn-pedir {
         background-color: #bc8f60;
         color: white;
         border: none;
@@ -56,7 +52,6 @@ h1 {
         transition: background 0.3s ease;
     }
 
-    /* Efecto cuando pasas el mouse por encima del botón */
     .btn-pedir:hover {
         background-color: #5c3a21;
     }
@@ -84,4 +79,4 @@ h1 {
     footer a {
         color: #fceade;
     }
-</style>
+  
